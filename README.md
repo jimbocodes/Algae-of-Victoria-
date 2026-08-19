@@ -26,11 +26,17 @@ These resources will be hosted on: **https://creaturesoftheholocene.com/**
 
 ## Relevant supporting links
 * [AlgaeBase](https://www.algaebase.org/)
+  
 * [Identification Fact Sheets of the Marine Benthic Flora of Southern Australia (South Australian Herbarium)](https://know.ourplants.org/florasa/algae_revealed/)
+
 * **H.B.S. Womersley's The Marine Benthic Flora of Southern Australia series**:
   * [Part I — Introduction, Seagrasses, Chlorophyta and Charophyta](https://data.environment.sa.gov.au/Content/Publications/Womersley1.pdf)
+  
   * [Part II — Phaeophyta and Chrysophyta (Vaucheria)](https://data.environment.sa.gov.au/Content/Publications/Womersley2.pdf)
+  
   * [Rhodophyta — Part IIIA: Bangiophyceae and Florideophyceae (Acrochaetiales to Gigartinales)](https://data.environment.sa.gov.au/Content/Publications/Womersley3A.pdf)
+  
   * [Rhodophyta — Part IIIB: Gracilariales, Rhodymeniales, Corallinales and Bonnemaisoniales](https://data.environment.sa.gov.au/Content/Publications/Womersley3B.pdf)
+  
   * [Rhodophyta — Part IIIC: Ceramiales – Ceramiaceae, Dasyaceae](https://data.environment.sa.gov.au/Content/Publications/Womersley3C.pdf)
   * [Rhodophyta — Part IIID: Ceramiales – Delesseriaceae, Sarcomeniaceae, Rhodomelaceae](https://data.environment.sa.gov.au/Content/Publications/Womersley3D.pdf)
