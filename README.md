@@ -6,8 +6,8 @@ This repository contains detailed species lists, diagnostic features, ecology an
 
 These resources will be hosted on: **https://creaturesoftheholocene.com/**
 
-[!NOTE] 
-This repo may develop and extend to encompass the marine benthic flora of Southern Australia, sub-Antarctic and Antarctic Penninsula.
+>[!NOTE] 
+>This repo may develop and extend to encompass the marine benthic flora of Southern Australia, sub-Antarctic and Antarctic Penninsula.
 
 ## Progress of Project
 
