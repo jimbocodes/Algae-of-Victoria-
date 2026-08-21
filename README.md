@@ -10,18 +10,20 @@ These resources will be hosted on the Content Management System (CMS) Contentful
 >This repo may develop and extend to encompass the marine benthic flora of Southern Australia, sub-Antarctic and Antarctic Penninsula.
 
 ## Progress of Project
+### **Site Development**
+Site development is currently in its **PLANNING** stage.
 
-**Families of marine algae currently waiting publication:**
-### Ochrophyta (browns)
+### **Families of marine algae currently waiting publication:**
+#### Ochrophyta (browns)
 - [ ] Seiroccocace
   - [ ] Seirococcus Greville, 1830
   - [ ] Scytothalia Greville, 1830
   - [ ] Phyllospora Greville, 1830
      
-### Rhodophyta (reds)
+#### Rhodophyta (reds)
 **No pages currently available**
 
-### Chlorophyta (greens)
+#### Chlorophyta (greens)
 **No pages currently available**
 
 ## Relevant supporting links
