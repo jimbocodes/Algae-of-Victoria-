@@ -4,7 +4,7 @@
 
 This repository contains detailed species lists, diagnostic features, ecology and distributions of the marine benthic flora for Victoria. The repository uses data collated from sources such as [Atlas of Living Australia](https://www.ala.org.au/) and [The Australasian Virtual Herbarium](https://avh.chah.org.au/) with key features collated and pulled from a customised Microsoft Access database. 
 
-These resources will be hosted on the Content Management System (CMS) Contentful (Google Cloud) and posted using [Jekyll](https://github.com/jekyll/jekyll) via the URL: **https://creaturesoftheholocene.com/**
+These resources will be hosted on the Content Management System (CMS) Contentful (Google Cloud) and posted using the static site generator [Jekyll](https://github.com/jekyll/jekyll) via the URL: **https://creaturesoftheholocene.com/**
 
 >[!NOTE] 
 >This repo may develop and extend to encompass the marine benthic flora of Southern Australia, sub-Antarctic and Antarctic Penninsula.
