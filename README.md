@@ -11,7 +11,7 @@ These resources will be hosted on the Content Management System (CMS) Contentful
 
 ## Progress of Project
 ### **Site Development**
-Site development is currently in its **PLANNING** stage.
+Site development is currently in its **PLANNING** stage (as at August 2026).
 
 ### **Families of marine algae currently waiting publication:**
 #### Ochrophyta (browns)
